@@ -4,13 +4,15 @@ percentage of positive and negative reviews.
 
 Selenium is used for scraping.
 
-The frontend and backend of this web app is developed using Dash and database used is sqlite. 
+The frontend and backend of this web app is developed using Dash and database used is SQLite. 
 
 Database is used just to store and retreive the scraped reviews.
 
 For the modelling, Keras API is used and modelling is done on Google Colab.
 
 This web app has been deployed on AWS t2.micro instance.
+
+
 
 
 
